@@ -1,0 +1,512 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Yanzely\Curso\EspecializacionAndroid\4-DesAplicacionesAvanzadas\Semana4\Proyecto\AppMascotaWearOsNotif_v2\app\src\main\AndroidManifest.xml:2:1-88:12
+INJECTED from C:\Yanzely\Curso\EspecializacionAndroid\4-DesAplicacionesAvanzadas\Semana4\Proyecto\AppMascotaWearOsNotif_v2\app\src\main\AndroidManifest.xml:2:1-88:12
+INJECTED from C:\Yanzely\Curso\EspecializacionAndroid\4-DesAplicacionesAvanzadas\Semana4\Proyecto\AppMascotaWearOsNotif_v2\app\src\main\AndroidManifest.xml:2:1-88:12
+INJECTED from C:\Yanzely\Curso\EspecializacionAndroid\4-DesAplicacionesAvanzadas\Semana4\Proyecto\AppMascotaWearOsNotif_v2\app\src\main\AndroidManifest.xml:2:1-88:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\dfcdd51b9945ffa14a2ce754647f2ba1\constraintlayout-2.0.2\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.material:material:1.2.1] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\ef4bb8006005528ad0f551af7525efa2\material-1.2.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\d34df1e4d666d91af0fd8fe7d72048c4\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\645c2cf8575f8c264e0fb8e5b7cdc99f\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\87823e4af3e4cc229dad81968ba5cc5b\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\75aabf9bf760eab070fbe418f28a46fa\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\80b2afd184d44d2928288747951d6f35\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.mikhaellopez:circularimageview:4.2.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\1f77cbc0f2ffc067b7fbd26c2dbee58b\jetified-circularimageview-4.2.0\AndroidManifest.xml:2:1-11:12
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\021e49feedba874b399d8ea06a690801\jetified-picasso-2.71828\AndroidManifest.xml:2:1-14:12
+MERGED from [com.google.firebase:firebase-messaging:21.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\62265db7726d8d359e33263f31b01ac0\jetified-firebase-messaging-21.0.0\AndroidManifest.xml:17:1-45:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\6d725599cd59077a17c3453b3afd91ea\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\a69019c1fd16d1c3ea97cab9d56fa5b0\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-iid:21.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\cfe8259275b84446bba9c633dcfd8bdb\jetified-firebase-iid-21.0.0\AndroidManifest.xml:17:1-47:12
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\d824b6137da0bb18ce59c9174b21f24c\jetified-play-services-cloud-messaging-16.0.0\AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\8a938e56fda08da28d6ff4987c18fca1\jetified-play-services-stats-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-datatransport:17.0.3] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\d5090a9b89c05caa0100fc3749fcbc79\jetified-firebase-datatransport-17.0.3\AndroidManifest.xml:15:1-34:12
+MERGED from [com.google.firebase:firebase-installations:16.3.3] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\637639eb3fa99495f7615ec1d813fdcf\jetified-firebase-installations-16.3.3\AndroidManifest.xml:2:1-23:12
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\e2a24e84fcd39f9732aa9a3a5b9d3a20\jetified-firebase-common-19.3.0\AndroidManifest.xml:15:1-39:12
+MERGED from [com.google.firebase:firebase-installations-interop:16.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\fa4c8b39c684a56b5ba6ad6b393719e2\jetified-firebase-installations-interop-16.0.0\AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\20b5d788248de1e16188efdefadce548\jetified-firebase-iid-interop-17.0.0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\5dd8db1b492e07c3a9afbac2c43729dc\jetified-play-services-base-17.0.0\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\fa931f4c025a3da8b42812666333a3b2\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\6552e1078b60bb22f885b2c0459abc16\jetified-firebase-measurement-connector-18.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\bbf44771761e260dd28edc28ed3ae883\jetified-play-services-basement-17.0.0\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\b1c7a2516a48a1ad5979c18cfafd4691\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\38b717555f2de9910f49a3c26298012d\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\e5e5681cb44e438faccc6911364214bb\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\f270266275154489d9ffc584835a3cf8\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\d8f91c35a0b2eb704f860da88c763520\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\8b7fa71bc3c8bd1a6bec9b46631ac11e\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\e786af1e96c28ef736555804e24ef0ea\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\d0bac03ccc9d7527507b17b76f495669\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\d9fc22bbab4bfbd3e395060cd269330f\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\dc46d546bdff935adee09f7825c7daa4\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\670a7dc80de139faf87f759457c325ba\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\4e7887e4c0ef42672ba3912c581e716f\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\0370375b39835ef0b420c90c9bd12cb1\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\52a2348fef2a4814a1dd7a77f9ddb99e\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\e9257eae1e3cf347b9f08c618377677a\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\469c3a6168e97358117a091dd78a3bcd\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.1] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\f7b0377195c4771327c99b4d9b0f26df\core-1.3.1\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\3354dbc3f1eb7228818a667c681d3bc8\exifinterface-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\b2fdb449daf4ae3c3112a60dfc20b780\jetified-transport-backend-cct-2.2.0\AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\a15342b53930af5c3665cb94bc9b13de\jetified-transport-runtime-2.2.0\AndroidManifest.xml:15:1-41:12
+MERGED from [com.google.firebase:firebase-components:16.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\533db5048d9fa37580be745ad9d112a2\jetified-firebase-components-16.0.0\AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.firebase:firebase-encoders-json:16.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\602d78e929ff82e2e16d4c4e4d2b051b\jetified-firebase-encoders-json-16.0.0\AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\6bf443250c8aad84e14c392fb4a9b1f4\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\4b48d4c88e13a8c435d5711a7ebab128\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\f39e6e883e1495866a64c02b9151df28\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\9a3224ae5706a0c09c34f989730f65d7\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\5f8f26636b2f9bc1d23ac768167300e6\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\b673f3f9a3bea2b8657e7241759bd413\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\600bba5d9b0d8146a97d3d2876eb4434\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\90073a2a3905bc5e01979ff4dc3027af\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\b5c3186634eb934786f85704e10c0301\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\9aa50fbb8c7a25e161acd0d78ac0516c\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\d5e622642ba6d41e1b1718ba9c97fc86\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\3374f7328a11d7de5bb282156e7e8ee7\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.datatransport:transport-api:2.2.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\982069805a1b128e3f683d581c92d098\jetified-transport-api-2.2.0\AndroidManifest.xml:15:1-22:12
+INJECTED from C:\Yanzely\Curso\EspecializacionAndroid\4-DesAplicacionesAvanzadas\Semana4\Proyecto\AppMascotaWearOsNotif_v2\app\src\main\AndroidManifest.xml:2:1-88:12
+INJECTED from C:\Yanzely\Curso\EspecializacionAndroid\4-DesAplicacionesAvanzadas\Semana4\Proyecto\AppMascotaWearOsNotif_v2\app\src\main\AndroidManifest.xml:2:1-88:12
+INJECTED from C:\Yanzely\Curso\EspecializacionAndroid\4-DesAplicacionesAvanzadas\Semana4\Proyecto\AppMascotaWearOsNotif_v2\app\src\main\AndroidManifest.xml:2:1-88:12
+	package
+		ADDED from C:\Yanzely\Curso\EspecializacionAndroid\4-DesAplicacionesAvanzadas\Semana4\Proyecto\AppMascotaWearOsNotif_v2\app\src\main\AndroidManifest.xml:3:5-34
+		INJECTED from C:\Yanzely\Curso\EspecializacionAndroid\4-DesAplicacionesAvanzadas\Semana4\Proyecto\AppMascotaWearOsNotif_v2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Yanzely\Curso\EspecializacionAndroid\4-DesAplicacionesAvanzadas\Semana4\Proyecto\AppMascotaWearOsNotif_v2\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Yanzely\Curso\EspecializacionAndroid\4-DesAplicacionesAvanzadas\Semana4\Proyecto\AppMascotaWearOsNotif_v2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Yanzely\Curso\EspecializacionAndroid\4-DesAplicacionesAvanzadas\Semana4\Proyecto\AppMascotaWearOsNotif_v2\app\src\main\AndroidManifest.xml:2:1-88:12
+		INJECTED from C:\Yanzely\Curso\EspecializacionAndroid\4-DesAplicacionesAvanzadas\Semana4\Proyecto\AppMascotaWearOsNotif_v2\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Yanzely\Curso\EspecializacionAndroid\4-DesAplicacionesAvanzadas\Semana4\Proyecto\AppMascotaWearOsNotif_v2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Yanzely\Curso\EspecializacionAndroid\4-DesAplicacionesAvanzadas\Semana4\Proyecto\AppMascotaWearOsNotif_v2\app\src\main\AndroidManifest.xml:2:1-88:12
+		INJECTED from C:\Yanzely\Curso\EspecializacionAndroid\4-DesAplicacionesAvanzadas\Semana4\Proyecto\AppMascotaWearOsNotif_v2\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Yanzely\Curso\EspecializacionAndroid\4-DesAplicacionesAvanzadas\Semana4\Proyecto\AppMascotaWearOsNotif_v2\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Yanzely\Curso\EspecializacionAndroid\4-DesAplicacionesAvanzadas\Semana4\Proyecto\AppMascotaWearOsNotif_v2\app\src\main\AndroidManifest.xml:5:5-67
+MERGED from [com.google.firebase:firebase-iid:21.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\cfe8259275b84446bba9c633dcfd8bdb\jetified-firebase-iid-21.0.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:21.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\cfe8259275b84446bba9c633dcfd8bdb\jetified-firebase-iid-21.0.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\d824b6137da0bb18ce59c9174b21f24c\jetified-play-services-cloud-messaging-16.0.0\AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\d824b6137da0bb18ce59c9174b21f24c\jetified-play-services-cloud-messaging-16.0.0\AndroidManifest.xml:8:5-67
+MERGED from [com.google.firebase:firebase-installations:16.3.3] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\637639eb3fa99495f7615ec1d813fdcf\jetified-firebase-installations-16.3.3\AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-installations:16.3.3] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\637639eb3fa99495f7615ec1d813fdcf\jetified-firebase-installations-16.3.3\AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\b2fdb449daf4ae3c3112a60dfc20b780\jetified-transport-backend-cct-2.2.0\AndroidManifest.xml:26:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\b2fdb449daf4ae3c3112a60dfc20b780\jetified-transport-backend-cct-2.2.0\AndroidManifest.xml:26:5-67
+	android:name
+		ADDED from C:\Yanzely\Curso\EspecializacionAndroid\4-DesAplicacionesAvanzadas\Semana4\Proyecto\AppMascotaWearOsNotif_v2\app\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from C:\Yanzely\Curso\EspecializacionAndroid\4-DesAplicacionesAvanzadas\Semana4\Proyecto\AppMascotaWearOsNotif_v2\app\src\main\AndroidManifest.xml:8:5-86:19
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\dfcdd51b9945ffa14a2ce754647f2ba1\constraintlayout-2.0.2\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\dfcdd51b9945ffa14a2ce754647f2ba1\constraintlayout-2.0.2\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.material:material:1.2.1] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\ef4bb8006005528ad0f551af7525efa2\material-1.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.2.1] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\ef4bb8006005528ad0f551af7525efa2\material-1.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\021e49feedba874b399d8ea06a690801\jetified-picasso-2.71828\AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\021e49feedba874b399d8ea06a690801\jetified-picasso-2.71828\AndroidManifest.xml:7:5-12:19
+MERGED from [com.google.firebase:firebase-messaging:21.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\62265db7726d8d359e33263f31b01ac0\jetified-firebase-messaging-21.0.0\AndroidManifest.xml:22:5-43:19
+MERGED from [com.google.firebase:firebase-messaging:21.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\62265db7726d8d359e33263f31b01ac0\jetified-firebase-messaging-21.0.0\AndroidManifest.xml:22:5-43:19
+MERGED from [com.google.firebase:firebase-iid:21.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\cfe8259275b84446bba9c633dcfd8bdb\jetified-firebase-iid-21.0.0\AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.firebase:firebase-iid:21.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\cfe8259275b84446bba9c633dcfd8bdb\jetified-firebase-iid-21.0.0\AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\8a938e56fda08da28d6ff4987c18fca1\jetified-play-services-stats-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\8a938e56fda08da28d6ff4987c18fca1\jetified-play-services-stats-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-datatransport:17.0.3] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\d5090a9b89c05caa0100fc3749fcbc79\jetified-firebase-datatransport-17.0.3\AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.firebase:firebase-datatransport:17.0.3] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\d5090a9b89c05caa0100fc3749fcbc79\jetified-firebase-datatransport-17.0.3\AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.firebase:firebase-installations:16.3.3] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\637639eb3fa99495f7615ec1d813fdcf\jetified-firebase-installations-16.3.3\AndroidManifest.xml:13:5-21:19
+MERGED from [com.google.firebase:firebase-installations:16.3.3] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\637639eb3fa99495f7615ec1d813fdcf\jetified-firebase-installations-16.3.3\AndroidManifest.xml:13:5-21:19
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\e2a24e84fcd39f9732aa9a3a5b9d3a20\jetified-firebase-common-19.3.0\AndroidManifest.xml:25:5-37:19
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\e2a24e84fcd39f9732aa9a3a5b9d3a20\jetified-firebase-common-19.3.0\AndroidManifest.xml:25:5-37:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\20b5d788248de1e16188efdefadce548\jetified-firebase-iid-interop-17.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\20b5d788248de1e16188efdefadce548\jetified-firebase-iid-interop-17.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\5dd8db1b492e07c3a9afbac2c43729dc\jetified-play-services-base-17.0.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\5dd8db1b492e07c3a9afbac2c43729dc\jetified-play-services-base-17.0.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\fa931f4c025a3da8b42812666333a3b2\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\fa931f4c025a3da8b42812666333a3b2\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\6552e1078b60bb22f885b2c0459abc16\jetified-firebase-measurement-connector-18.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\6552e1078b60bb22f885b2c0459abc16\jetified-firebase-measurement-connector-18.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\bbf44771761e260dd28edc28ed3ae883\jetified-play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\bbf44771761e260dd28edc28ed3ae883\jetified-play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.3.1] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\f7b0377195c4771327c99b4d9b0f26df\core-1.3.1\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.1] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\f7b0377195c4771327c99b4d9b0f26df\core-1.3.1\AndroidManifest.xml:24:5-89
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\b2fdb449daf4ae3c3112a60dfc20b780\jetified-transport-backend-cct-2.2.0\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\b2fdb449daf4ae3c3112a60dfc20b780\jetified-transport-backend-cct-2.2.0\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\a15342b53930af5c3665cb94bc9b13de\jetified-transport-runtime-2.2.0\AndroidManifest.xml:25:5-39:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\a15342b53930af5c3665cb94bc9b13de\jetified-transport-runtime-2.2.0\AndroidManifest.xml:25:5-39:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\6bf443250c8aad84e14c392fb4a9b1f4\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\6bf443250c8aad84e14c392fb4a9b1f4\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.1] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\f7b0377195c4771327c99b4d9b0f26df\core-1.3.1\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Yanzely\Curso\EspecializacionAndroid\4-DesAplicacionesAvanzadas\Semana4\Proyecto\AppMascotaWearOsNotif_v2\app\src\main\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from C:\Yanzely\Curso\EspecializacionAndroid\4-DesAplicacionesAvanzadas\Semana4\Proyecto\AppMascotaWearOsNotif_v2\app\src\main\AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from C:\Yanzely\Curso\EspecializacionAndroid\4-DesAplicacionesAvanzadas\Semana4\Proyecto\AppMascotaWearOsNotif_v2\app\src\main\AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from C:\Yanzely\Curso\EspecializacionAndroid\4-DesAplicacionesAvanzadas\Semana4\Proyecto\AppMascotaWearOsNotif_v2\app\src\main\AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from C:\Yanzely\Curso\EspecializacionAndroid\4-DesAplicacionesAvanzadas\Semana4\Proyecto\AppMascotaWearOsNotif_v2\app\src\main\AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from C:\Yanzely\Curso\EspecializacionAndroid\4-DesAplicacionesAvanzadas\Semana4\Proyecto\AppMascotaWearOsNotif_v2\app\src\main\AndroidManifest.xml:14:9-40
+activity#com.yng.appmascotas.SelCuentaInstagram
+ADDED from C:\Yanzely\Curso\EspecializacionAndroid\4-DesAplicacionesAvanzadas\Semana4\Proyecto\AppMascotaWearOsNotif_v2\app\src\main\AndroidManifest.xml:16:9-24:20
+	android:parentActivityName
+		ADDED from C:\Yanzely\Curso\EspecializacionAndroid\4-DesAplicacionesAvanzadas\Semana4\Proyecto\AppMascotaWearOsNotif_v2\app\src\main\AndroidManifest.xml:18:13-55
+	android:name
+		ADDED from C:\Yanzely\Curso\EspecializacionAndroid\4-DesAplicacionesAvanzadas\Semana4\Proyecto\AppMascotaWearOsNotif_v2\app\src\main\AndroidManifest.xml:17:13-47
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from C:\Yanzely\Curso\EspecializacionAndroid\4-DesAplicacionesAvanzadas\Semana4\Proyecto\AppMascotaWearOsNotif_v2\app\src\main\AndroidManifest.xml:21:13-23:49
+	android:value
+		ADDED from C:\Yanzely\Curso\EspecializacionAndroid\4-DesAplicacionesAvanzadas\Semana4\Proyecto\AppMascotaWearOsNotif_v2\app\src\main\AndroidManifest.xml:23:17-46
+	android:name
+		ADDED from C:\Yanzely\Curso\EspecializacionAndroid\4-DesAplicacionesAvanzadas\Semana4\Proyecto\AppMascotaWearOsNotif_v2\app\src\main\AndroidManifest.xml:22:17-63
+activity#com.yng.appmascotas.MyBioActivity
+ADDED from C:\Yanzely\Curso\EspecializacionAndroid\4-DesAplicacionesAvanzadas\Semana4\Proyecto\AppMascotaWearOsNotif_v2\app\src\main\AndroidManifest.xml:26:9-34:20
+	android:parentActivityName
+		ADDED from C:\Yanzely\Curso\EspecializacionAndroid\4-DesAplicacionesAvanzadas\Semana4\Proyecto\AppMascotaWearOsNotif_v2\app\src\main\AndroidManifest.xml:28:13-55
+	android:name
+		ADDED from C:\Yanzely\Curso\EspecializacionAndroid\4-DesAplicacionesAvanzadas\Semana4\Proyecto\AppMascotaWearOsNotif_v2\app\src\main\AndroidManifest.xml:27:13-42
+activity#com.yng.appmascotas.ContactoActivity
+ADDED from C:\Yanzely\Curso\EspecializacionAndroid\4-DesAplicacionesAvanzadas\Semana4\Proyecto\AppMascotaWearOsNotif_v2\app\src\main\AndroidManifest.xml:35:9-43:20
+	android:parentActivityName
+		ADDED from C:\Yanzely\Curso\EspecializacionAndroid\4-DesAplicacionesAvanzadas\Semana4\Proyecto\AppMascotaWearOsNotif_v2\app\src\main\AndroidManifest.xml:37:13-55
+	android:name
+		ADDED from C:\Yanzely\Curso\EspecializacionAndroid\4-DesAplicacionesAvanzadas\Semana4\Proyecto\AppMascotaWearOsNotif_v2\app\src\main\AndroidManifest.xml:36:13-45
+activity#com.yng.appmascotas.RaitingMascotas
+ADDED from C:\Yanzely\Curso\EspecializacionAndroid\4-DesAplicacionesAvanzadas\Semana4\Proyecto\AppMascotaWearOsNotif_v2\app\src\main\AndroidManifest.xml:44:9-52:20
+	android:parentActivityName
+		ADDED from C:\Yanzely\Curso\EspecializacionAndroid\4-DesAplicacionesAvanzadas\Semana4\Proyecto\AppMascotaWearOsNotif_v2\app\src\main\AndroidManifest.xml:46:13-55
+	android:name
+		ADDED from C:\Yanzely\Curso\EspecializacionAndroid\4-DesAplicacionesAvanzadas\Semana4\Proyecto\AppMascotaWearOsNotif_v2\app\src\main\AndroidManifest.xml:45:13-44
+activity#com.yng.appmascotas.MainActivity
+ADDED from C:\Yanzely\Curso\EspecializacionAndroid\4-DesAplicacionesAvanzadas\Semana4\Proyecto\AppMascotaWearOsNotif_v2\app\src\main\AndroidManifest.xml:53:9-59:20
+	android:name
+		ADDED from C:\Yanzely\Curso\EspecializacionAndroid\4-DesAplicacionesAvanzadas\Semana4\Proyecto\AppMascotaWearOsNotif_v2\app\src\main\AndroidManifest.xml:53:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Yanzely\Curso\EspecializacionAndroid\4-DesAplicacionesAvanzadas\Semana4\Proyecto\AppMascotaWearOsNotif_v2\app\src\main\AndroidManifest.xml:54:13-58:29
+action#android.intent.action.MAIN
+ADDED from C:\Yanzely\Curso\EspecializacionAndroid\4-DesAplicacionesAvanzadas\Semana4\Proyecto\AppMascotaWearOsNotif_v2\app\src\main\AndroidManifest.xml:55:17-69
+	android:name
+		ADDED from C:\Yanzely\Curso\EspecializacionAndroid\4-DesAplicacionesAvanzadas\Semana4\Proyecto\AppMascotaWearOsNotif_v2\app\src\main\AndroidManifest.xml:55:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Yanzely\Curso\EspecializacionAndroid\4-DesAplicacionesAvanzadas\Semana4\Proyecto\AppMascotaWearOsNotif_v2\app\src\main\AndroidManifest.xml:57:17-77
+	android:name
+		ADDED from C:\Yanzely\Curso\EspecializacionAndroid\4-DesAplicacionesAvanzadas\Semana4\Proyecto\AppMascotaWearOsNotif_v2\app\src\main\AndroidManifest.xml:57:27-74
+service#com.yng.appmascotas.MyFirebaseMessagingService
+ADDED from C:\Yanzely\Curso\EspecializacionAndroid\4-DesAplicacionesAvanzadas\Semana4\Proyecto\AppMascotaWearOsNotif_v2\app\src\main\AndroidManifest.xml:61:9-67:19
+	android:exported
+		ADDED from C:\Yanzely\Curso\EspecializacionAndroid\4-DesAplicacionesAvanzadas\Semana4\Proyecto\AppMascotaWearOsNotif_v2\app\src\main\AndroidManifest.xml:63:13-37
+	android:name
+		ADDED from C:\Yanzely\Curso\EspecializacionAndroid\4-DesAplicacionesAvanzadas\Semana4\Proyecto\AppMascotaWearOsNotif_v2\app\src\main\AndroidManifest.xml:62:13-55
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from C:\Yanzely\Curso\EspecializacionAndroid\4-DesAplicacionesAvanzadas\Semana4\Proyecto\AppMascotaWearOsNotif_v2\app\src\main\AndroidManifest.xml:64:13-66:29
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from C:\Yanzely\Curso\EspecializacionAndroid\4-DesAplicacionesAvanzadas\Semana4\Proyecto\AppMascotaWearOsNotif_v2\app\src\main\AndroidManifest.xml:65:17-78
+	android:name
+		ADDED from C:\Yanzely\Curso\EspecializacionAndroid\4-DesAplicacionesAvanzadas\Semana4\Proyecto\AppMascotaWearOsNotif_v2\app\src\main\AndroidManifest.xml:65:25-75
+receiver#com.yng.appmascotas.actions.VerFotosCuenta
+ADDED from C:\Yanzely\Curso\EspecializacionAndroid\4-DesAplicacionesAvanzadas\Semana4\Proyecto\AppMascotaWearOsNotif_v2\app\src\main\AndroidManifest.xml:69:9-73:20
+	android:name
+		ADDED from C:\Yanzely\Curso\EspecializacionAndroid\4-DesAplicacionesAvanzadas\Semana4\Proyecto\AppMascotaWearOsNotif_v2\app\src\main\AndroidManifest.xml:69:19-57
+intent-filter#action:name:VER_FOTOS_CUENTA
+ADDED from C:\Yanzely\Curso\EspecializacionAndroid\4-DesAplicacionesAvanzadas\Semana4\Proyecto\AppMascotaWearOsNotif_v2\app\src\main\AndroidManifest.xml:70:13-72:29
+action#VER_FOTOS_CUENTA
+ADDED from C:\Yanzely\Curso\EspecializacionAndroid\4-DesAplicacionesAvanzadas\Semana4\Proyecto\AppMascotaWearOsNotif_v2\app\src\main\AndroidManifest.xml:71:17-58
+	android:name
+		ADDED from C:\Yanzely\Curso\EspecializacionAndroid\4-DesAplicacionesAvanzadas\Semana4\Proyecto\AppMascotaWearOsNotif_v2\app\src\main\AndroidManifest.xml:71:25-56
+receiver#com.yng.appmascotas.actions.CambiarUsuario
+ADDED from C:\Yanzely\Curso\EspecializacionAndroid\4-DesAplicacionesAvanzadas\Semana4\Proyecto\AppMascotaWearOsNotif_v2\app\src\main\AndroidManifest.xml:75:9-79:20
+	android:name
+		ADDED from C:\Yanzely\Curso\EspecializacionAndroid\4-DesAplicacionesAvanzadas\Semana4\Proyecto\AppMascotaWearOsNotif_v2\app\src\main\AndroidManifest.xml:75:19-57
+intent-filter#action:name:CAMBIAR_USUARIO
+ADDED from C:\Yanzely\Curso\EspecializacionAndroid\4-DesAplicacionesAvanzadas\Semana4\Proyecto\AppMascotaWearOsNotif_v2\app\src\main\AndroidManifest.xml:76:13-78:29
+action#CAMBIAR_USUARIO
+ADDED from C:\Yanzely\Curso\EspecializacionAndroid\4-DesAplicacionesAvanzadas\Semana4\Proyecto\AppMascotaWearOsNotif_v2\app\src\main\AndroidManifest.xml:77:17-57
+	android:name
+		ADDED from C:\Yanzely\Curso\EspecializacionAndroid\4-DesAplicacionesAvanzadas\Semana4\Proyecto\AppMascotaWearOsNotif_v2\app\src\main\AndroidManifest.xml:77:25-55
+receiver#com.yng.appmascotas.actions.DarLikeOtra
+ADDED from C:\Yanzely\Curso\EspecializacionAndroid\4-DesAplicacionesAvanzadas\Semana4\Proyecto\AppMascotaWearOsNotif_v2\app\src\main\AndroidManifest.xml:81:9-85:20
+	android:name
+		ADDED from C:\Yanzely\Curso\EspecializacionAndroid\4-DesAplicacionesAvanzadas\Semana4\Proyecto\AppMascotaWearOsNotif_v2\app\src\main\AndroidManifest.xml:81:19-54
+intent-filter#action:name:DAR_LIKE_OTRA
+ADDED from C:\Yanzely\Curso\EspecializacionAndroid\4-DesAplicacionesAvanzadas\Semana4\Proyecto\AppMascotaWearOsNotif_v2\app\src\main\AndroidManifest.xml:82:13-84:29
+action#DAR_LIKE_OTRA
+ADDED from C:\Yanzely\Curso\EspecializacionAndroid\4-DesAplicacionesAvanzadas\Semana4\Proyecto\AppMascotaWearOsNotif_v2\app\src\main\AndroidManifest.xml:83:17-55
+	android:name
+		ADDED from C:\Yanzely\Curso\EspecializacionAndroid\4-DesAplicacionesAvanzadas\Semana4\Proyecto\AppMascotaWearOsNotif_v2\app\src\main\AndroidManifest.xml:83:25-53
+uses-sdk
+INJECTED from C:\Yanzely\Curso\EspecializacionAndroid\4-DesAplicacionesAvanzadas\Semana4\Proyecto\AppMascotaWearOsNotif_v2\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Yanzely\Curso\EspecializacionAndroid\4-DesAplicacionesAvanzadas\Semana4\Proyecto\AppMascotaWearOsNotif_v2\app\src\main\AndroidManifest.xml
+INJECTED from C:\Yanzely\Curso\EspecializacionAndroid\4-DesAplicacionesAvanzadas\Semana4\Proyecto\AppMascotaWearOsNotif_v2\app\src\main\AndroidManifest.xml
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\dfcdd51b9945ffa14a2ce754647f2ba1\constraintlayout-2.0.2\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\dfcdd51b9945ffa14a2ce754647f2ba1\constraintlayout-2.0.2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.2.1] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\ef4bb8006005528ad0f551af7525efa2\material-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.2.1] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\ef4bb8006005528ad0f551af7525efa2\material-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\d34df1e4d666d91af0fd8fe7d72048c4\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\d34df1e4d666d91af0fd8fe7d72048c4\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\645c2cf8575f8c264e0fb8e5b7cdc99f\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\645c2cf8575f8c264e0fb8e5b7cdc99f\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\87823e4af3e4cc229dad81968ba5cc5b\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\87823e4af3e4cc229dad81968ba5cc5b\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\75aabf9bf760eab070fbe418f28a46fa\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\75aabf9bf760eab070fbe418f28a46fa\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\80b2afd184d44d2928288747951d6f35\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\80b2afd184d44d2928288747951d6f35\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.mikhaellopez:circularimageview:4.2.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\1f77cbc0f2ffc067b7fbd26c2dbee58b\jetified-circularimageview-4.2.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.mikhaellopez:circularimageview:4.2.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\1f77cbc0f2ffc067b7fbd26c2dbee58b\jetified-circularimageview-4.2.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\021e49feedba874b399d8ea06a690801\jetified-picasso-2.71828\AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\021e49feedba874b399d8ea06a690801\jetified-picasso-2.71828\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-messaging:21.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\62265db7726d8d359e33263f31b01ac0\jetified-firebase-messaging-21.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:21.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\62265db7726d8d359e33263f31b01ac0\jetified-firebase-messaging-21.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\6d725599cd59077a17c3453b3afd91ea\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\6d725599cd59077a17c3453b3afd91ea\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\a69019c1fd16d1c3ea97cab9d56fa5b0\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\a69019c1fd16d1c3ea97cab9d56fa5b0\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:21.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\cfe8259275b84446bba9c633dcfd8bdb\jetified-firebase-iid-21.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:21.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\cfe8259275b84446bba9c633dcfd8bdb\jetified-firebase-iid-21.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\d824b6137da0bb18ce59c9174b21f24c\jetified-play-services-cloud-messaging-16.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\d824b6137da0bb18ce59c9174b21f24c\jetified-play-services-cloud-messaging-16.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\8a938e56fda08da28d6ff4987c18fca1\jetified-play-services-stats-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\8a938e56fda08da28d6ff4987c18fca1\jetified-play-services-stats-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-datatransport:17.0.3] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\d5090a9b89c05caa0100fc3749fcbc79\jetified-firebase-datatransport-17.0.3\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-datatransport:17.0.3] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\d5090a9b89c05caa0100fc3749fcbc79\jetified-firebase-datatransport-17.0.3\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-installations:16.3.3] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\637639eb3fa99495f7615ec1d813fdcf\jetified-firebase-installations-16.3.3\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-installations:16.3.3] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\637639eb3fa99495f7615ec1d813fdcf\jetified-firebase-installations-16.3.3\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\e2a24e84fcd39f9732aa9a3a5b9d3a20\jetified-firebase-common-19.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\e2a24e84fcd39f9732aa9a3a5b9d3a20\jetified-firebase-common-19.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-installations-interop:16.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\fa4c8b39c684a56b5ba6ad6b393719e2\jetified-firebase-installations-interop-16.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-installations-interop:16.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\fa4c8b39c684a56b5ba6ad6b393719e2\jetified-firebase-installations-interop-16.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\20b5d788248de1e16188efdefadce548\jetified-firebase-iid-interop-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\20b5d788248de1e16188efdefadce548\jetified-firebase-iid-interop-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\5dd8db1b492e07c3a9afbac2c43729dc\jetified-play-services-base-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\5dd8db1b492e07c3a9afbac2c43729dc\jetified-play-services-base-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\fa931f4c025a3da8b42812666333a3b2\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\fa931f4c025a3da8b42812666333a3b2\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\6552e1078b60bb22f885b2c0459abc16\jetified-firebase-measurement-connector-18.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\6552e1078b60bb22f885b2c0459abc16\jetified-firebase-measurement-connector-18.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\bbf44771761e260dd28edc28ed3ae883\jetified-play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\bbf44771761e260dd28edc28ed3ae883\jetified-play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\b1c7a2516a48a1ad5979c18cfafd4691\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\b1c7a2516a48a1ad5979c18cfafd4691\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\38b717555f2de9910f49a3c26298012d\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\38b717555f2de9910f49a3c26298012d\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\e5e5681cb44e438faccc6911364214bb\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\e5e5681cb44e438faccc6911364214bb\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\f270266275154489d9ffc584835a3cf8\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\f270266275154489d9ffc584835a3cf8\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\d8f91c35a0b2eb704f860da88c763520\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\d8f91c35a0b2eb704f860da88c763520\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\8b7fa71bc3c8bd1a6bec9b46631ac11e\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\8b7fa71bc3c8bd1a6bec9b46631ac11e\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\e786af1e96c28ef736555804e24ef0ea\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\e786af1e96c28ef736555804e24ef0ea\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\d0bac03ccc9d7527507b17b76f495669\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\d0bac03ccc9d7527507b17b76f495669\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\d9fc22bbab4bfbd3e395060cd269330f\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\d9fc22bbab4bfbd3e395060cd269330f\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\dc46d546bdff935adee09f7825c7daa4\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\dc46d546bdff935adee09f7825c7daa4\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\670a7dc80de139faf87f759457c325ba\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\670a7dc80de139faf87f759457c325ba\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\4e7887e4c0ef42672ba3912c581e716f\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\4e7887e4c0ef42672ba3912c581e716f\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\0370375b39835ef0b420c90c9bd12cb1\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\0370375b39835ef0b420c90c9bd12cb1\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\52a2348fef2a4814a1dd7a77f9ddb99e\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\52a2348fef2a4814a1dd7a77f9ddb99e\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\e9257eae1e3cf347b9f08c618377677a\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\e9257eae1e3cf347b9f08c618377677a\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\469c3a6168e97358117a091dd78a3bcd\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\469c3a6168e97358117a091dd78a3bcd\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.1] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\f7b0377195c4771327c99b4d9b0f26df\core-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.1] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\f7b0377195c4771327c99b4d9b0f26df\core-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\3354dbc3f1eb7228818a667c681d3bc8\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\3354dbc3f1eb7228818a667c681d3bc8\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\b2fdb449daf4ae3c3112a60dfc20b780\jetified-transport-backend-cct-2.2.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\b2fdb449daf4ae3c3112a60dfc20b780\jetified-transport-backend-cct-2.2.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\a15342b53930af5c3665cb94bc9b13de\jetified-transport-runtime-2.2.0\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\a15342b53930af5c3665cb94bc9b13de\jetified-transport-runtime-2.2.0\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-components:16.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\533db5048d9fa37580be745ad9d112a2\jetified-firebase-components-16.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:16.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\533db5048d9fa37580be745ad9d112a2\jetified-firebase-components-16.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:16.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\602d78e929ff82e2e16d4c4e4d2b051b\jetified-firebase-encoders-json-16.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:16.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\602d78e929ff82e2e16d4c4e4d2b051b\jetified-firebase-encoders-json-16.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\6bf443250c8aad84e14c392fb4a9b1f4\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\6bf443250c8aad84e14c392fb4a9b1f4\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\4b48d4c88e13a8c435d5711a7ebab128\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\4b48d4c88e13a8c435d5711a7ebab128\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\f39e6e883e1495866a64c02b9151df28\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\f39e6e883e1495866a64c02b9151df28\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\9a3224ae5706a0c09c34f989730f65d7\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\9a3224ae5706a0c09c34f989730f65d7\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\5f8f26636b2f9bc1d23ac768167300e6\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\5f8f26636b2f9bc1d23ac768167300e6\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\b673f3f9a3bea2b8657e7241759bd413\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\b673f3f9a3bea2b8657e7241759bd413\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\600bba5d9b0d8146a97d3d2876eb4434\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\600bba5d9b0d8146a97d3d2876eb4434\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\90073a2a3905bc5e01979ff4dc3027af\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\90073a2a3905bc5e01979ff4dc3027af\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\b5c3186634eb934786f85704e10c0301\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\b5c3186634eb934786f85704e10c0301\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\9aa50fbb8c7a25e161acd0d78ac0516c\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\9aa50fbb8c7a25e161acd0d78ac0516c\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\d5e622642ba6d41e1b1718ba9c97fc86\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\d5e622642ba6d41e1b1718ba9c97fc86\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\3374f7328a11d7de5bb282156e7e8ee7\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\3374f7328a11d7de5bb282156e7e8ee7\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.datatransport:transport-api:2.2.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\982069805a1b128e3f683d581c92d098\jetified-transport-api-2.2.0\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:2.2.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\982069805a1b128e3f683d581c92d098\jetified-transport-api-2.2.0\AndroidManifest.xml:18:5-20:41
+INJECTED from C:\Yanzely\Curso\EspecializacionAndroid\4-DesAplicacionesAvanzadas\Semana4\Proyecto\AppMascotaWearOsNotif_v2\app\src\main\AndroidManifest.xml
+INJECTED from C:\Yanzely\Curso\EspecializacionAndroid\4-DesAplicacionesAvanzadas\Semana4\Proyecto\AppMascotaWearOsNotif_v2\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Yanzely\Curso\EspecializacionAndroid\4-DesAplicacionesAvanzadas\Semana4\Proyecto\AppMascotaWearOsNotif_v2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Yanzely\Curso\EspecializacionAndroid\4-DesAplicacionesAvanzadas\Semana4\Proyecto\AppMascotaWearOsNotif_v2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Yanzely\Curso\EspecializacionAndroid\4-DesAplicacionesAvanzadas\Semana4\Proyecto\AppMascotaWearOsNotif_v2\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Yanzely\Curso\EspecializacionAndroid\4-DesAplicacionesAvanzadas\Semana4\Proyecto\AppMascotaWearOsNotif_v2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Yanzely\Curso\EspecializacionAndroid\4-DesAplicacionesAvanzadas\Semana4\Proyecto\AppMascotaWearOsNotif_v2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Yanzely\Curso\EspecializacionAndroid\4-DesAplicacionesAvanzadas\Semana4\Proyecto\AppMascotaWearOsNotif_v2\app\src\main\AndroidManifest.xml
+provider#com.squareup.picasso.PicassoProvider
+ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\021e49feedba874b399d8ea06a690801\jetified-picasso-2.71828\AndroidManifest.xml:8:9-11:40
+	android:authorities
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\021e49feedba874b399d8ea06a690801\jetified-picasso-2.71828\AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\021e49feedba874b399d8ea06a690801\jetified-picasso-2.71828\AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\021e49feedba874b399d8ea06a690801\jetified-picasso-2.71828\AndroidManifest.xml:9:13-64
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:21.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\62265db7726d8d359e33263f31b01ac0\jetified-firebase-messaging-21.0.0\AndroidManifest.xml:28:9-35:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:21.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\62265db7726d8d359e33263f31b01ac0\jetified-firebase-messaging-21.0.0\AndroidManifest.xml:31:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-messaging:21.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\62265db7726d8d359e33263f31b01ac0\jetified-firebase-messaging-21.0.0\AndroidManifest.xml:30:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:21.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\62265db7726d8d359e33263f31b01ac0\jetified-firebase-messaging-21.0.0\AndroidManifest.xml:29:13-82
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-messaging:21.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\62265db7726d8d359e33263f31b01ac0\jetified-firebase-messaging-21.0.0\AndroidManifest.xml:36:9-42:19
+MERGED from [com.google.firebase:firebase-iid:21.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\cfe8259275b84446bba9c633dcfd8bdb\jetified-firebase-iid-21.0.0\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-iid:21.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\cfe8259275b84446bba9c633dcfd8bdb\jetified-firebase-iid-21.0.0\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-datatransport:17.0.3] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\d5090a9b89c05caa0100fc3749fcbc79\jetified-firebase-datatransport-17.0.3\AndroidManifest.xml:25:9-31:19
+MERGED from [com.google.firebase:firebase-datatransport:17.0.3] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\d5090a9b89c05caa0100fc3749fcbc79\jetified-firebase-datatransport-17.0.3\AndroidManifest.xml:25:9-31:19
+MERGED from [com.google.firebase:firebase-installations:16.3.3] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\637639eb3fa99495f7615ec1d813fdcf\jetified-firebase-installations-16.3.3\AndroidManifest.xml:14:9-20:19
+MERGED from [com.google.firebase:firebase-installations:16.3.3] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\637639eb3fa99495f7615ec1d813fdcf\jetified-firebase-installations-16.3.3\AndroidManifest.xml:14:9-20:19
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\e2a24e84fcd39f9732aa9a3a5b9d3a20\jetified-firebase-common-19.3.0\AndroidManifest.xml:32:9-36:35
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\e2a24e84fcd39f9732aa9a3a5b9d3a20\jetified-firebase-common-19.3.0\AndroidManifest.xml:32:9-36:35
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:21.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\62265db7726d8d359e33263f31b01ac0\jetified-firebase-messaging-21.0.0\AndroidManifest.xml:38:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\e2a24e84fcd39f9732aa9a3a5b9d3a20\jetified-firebase-common-19.3.0\AndroidManifest.xml:36:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\e2a24e84fcd39f9732aa9a3a5b9d3a20\jetified-firebase-common-19.3.0\AndroidManifest.xml:34:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:21.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\62265db7726d8d359e33263f31b01ac0\jetified-firebase-messaging-21.0.0\AndroidManifest.xml:37:13-84
+meta-data#com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar
+ADDED from [com.google.firebase:firebase-messaging:21.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\62265db7726d8d359e33263f31b01ac0\jetified-firebase-messaging-21.0.0\AndroidManifest.xml:39:13-41:85
+	android:value
+		ADDED from [com.google.firebase:firebase-messaging:21.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\62265db7726d8d359e33263f31b01ac0\jetified-firebase-messaging-21.0.0\AndroidManifest.xml:41:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:21.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\62265db7726d8d359e33263f31b01ac0\jetified-firebase-messaging-21.0.0\AndroidManifest.xml:40:17-119
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-iid:21.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\cfe8259275b84446bba9c633dcfd8bdb\jetified-firebase-iid-21.0.0\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\d824b6137da0bb18ce59c9174b21f24c\jetified-play-services-cloud-messaging-16.0.0\AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\d824b6137da0bb18ce59c9174b21f24c\jetified-play-services-cloud-messaging-16.0.0\AndroidManifest.xml:7:5-79
+MERGED from [com.google.firebase:firebase-installations:16.3.3] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\637639eb3fa99495f7615ec1d813fdcf\jetified-firebase-installations-16.3.3\AndroidManifest.xml:10:5-79
+MERGED from [com.google.firebase:firebase-installations:16.3.3] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\637639eb3fa99495f7615ec1d813fdcf\jetified-firebase-installations-16.3.3\AndroidManifest.xml:10:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\b2fdb449daf4ae3c3112a60dfc20b780\jetified-transport-backend-cct-2.2.0\AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\b2fdb449daf4ae3c3112a60dfc20b780\jetified-transport-backend-cct-2.2.0\AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\a15342b53930af5c3665cb94bc9b13de\jetified-transport-runtime-2.2.0\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\a15342b53930af5c3665cb94bc9b13de\jetified-transport-runtime-2.2.0\AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:21.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\cfe8259275b84446bba9c633dcfd8bdb\jetified-firebase-iid-21.0.0\AndroidManifest.xml:22:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-iid:21.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\cfe8259275b84446bba9c633dcfd8bdb\jetified-firebase-iid-21.0.0\AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\d824b6137da0bb18ce59c9174b21f24c\jetified-play-services-cloud-messaging-16.0.0\AndroidManifest.xml:9:5-68
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\d824b6137da0bb18ce59c9174b21f24c\jetified-play-services-cloud-messaging-16.0.0\AndroidManifest.xml:9:5-68
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:21.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\cfe8259275b84446bba9c633dcfd8bdb\jetified-firebase-iid-21.0.0\AndroidManifest.xml:24:22-65
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:21.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\cfe8259275b84446bba9c633dcfd8bdb\jetified-firebase-iid-21.0.0\AndroidManifest.xml:26:5-82
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\d824b6137da0bb18ce59c9174b21f24c\jetified-play-services-cloud-messaging-16.0.0\AndroidManifest.xml:11:5-82
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\d824b6137da0bb18ce59c9174b21f24c\jetified-play-services-cloud-messaging-16.0.0\AndroidManifest.xml:11:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:21.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\cfe8259275b84446bba9c633dcfd8bdb\jetified-firebase-iid-21.0.0\AndroidManifest.xml:26:22-79
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:21.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\cfe8259275b84446bba9c633dcfd8bdb\jetified-firebase-iid-21.0.0\AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:21.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\cfe8259275b84446bba9c633dcfd8bdb\jetified-firebase-iid-21.0.0\AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:21.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\cfe8259275b84446bba9c633dcfd8bdb\jetified-firebase-iid-21.0.0\AndroidManifest.xml:33:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:21.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\cfe8259275b84446bba9c633dcfd8bdb\jetified-firebase-iid-21.0.0\AndroidManifest.xml:37:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:21.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\cfe8259275b84446bba9c633dcfd8bdb\jetified-firebase-iid-21.0.0\AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:21.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\cfe8259275b84446bba9c633dcfd8bdb\jetified-firebase-iid-21.0.0\AndroidManifest.xml:40:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:21.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\cfe8259275b84446bba9c633dcfd8bdb\jetified-firebase-iid-21.0.0\AndroidManifest.xml:38:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:21.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\cfe8259275b84446bba9c633dcfd8bdb\jetified-firebase-iid-21.0.0\AndroidManifest.xml:41:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:21.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\cfe8259275b84446bba9c633dcfd8bdb\jetified-firebase-iid-21.0.0\AndroidManifest.xml:42:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:21.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\cfe8259275b84446bba9c633dcfd8bdb\jetified-firebase-iid-21.0.0\AndroidManifest.xml:42:25-78
+meta-data#com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar
+ADDED from [com.google.firebase:firebase-datatransport:17.0.3] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\d5090a9b89c05caa0100fc3749fcbc79\jetified-firebase-datatransport-17.0.3\AndroidManifest.xml:28:13-30:85
+	android:value
+		ADDED from [com.google.firebase:firebase-datatransport:17.0.3] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\d5090a9b89c05caa0100fc3749fcbc79\jetified-firebase-datatransport-17.0.3\AndroidManifest.xml:30:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-datatransport:17.0.3] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\d5090a9b89c05caa0100fc3749fcbc79\jetified-firebase-datatransport-17.0.3\AndroidManifest.xml:29:17-115
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar
+ADDED from [com.google.firebase:firebase-installations:16.3.3] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\637639eb3fa99495f7615ec1d813fdcf\jetified-firebase-installations-16.3.3\AndroidManifest.xml:17:13-19:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:16.3.3] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\637639eb3fa99495f7615ec1d813fdcf\jetified-firebase-installations-16.3.3\AndroidManifest.xml:19:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:16.3.3] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\637639eb3fa99495f7615ec1d813fdcf\jetified-firebase-installations-16.3.3\AndroidManifest.xml:18:17-127
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\e2a24e84fcd39f9732aa9a3a5b9d3a20\jetified-firebase-common-19.3.0\AndroidManifest.xml:26:9-30:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\e2a24e84fcd39f9732aa9a3a5b9d3a20\jetified-firebase-common-19.3.0\AndroidManifest.xml:28:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\e2a24e84fcd39f9732aa9a3a5b9d3a20\jetified-firebase-common-19.3.0\AndroidManifest.xml:29:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\e2a24e84fcd39f9732aa9a3a5b9d3a20\jetified-firebase-common-19.3.0\AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\e2a24e84fcd39f9732aa9a3a5b9d3a20\jetified-firebase-common-19.3.0\AndroidManifest.xml:27:13-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\5dd8db1b492e07c3a9afbac2c43729dc\jetified-play-services-base-17.0.0\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\5dd8db1b492e07c3a9afbac2c43729dc\jetified-play-services-base-17.0.0\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\5dd8db1b492e07c3a9afbac2c43729dc\jetified-play-services-base-17.0.0\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\5dd8db1b492e07c3a9afbac2c43729dc\jetified-play-services-base-17.0.0\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\bbf44771761e260dd28edc28ed3ae883\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\bbf44771761e260dd28edc28ed3ae883\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\bbf44771761e260dd28edc28ed3ae883\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
+service#com.google.android.datatransport.runtime.backends.TransportBackendDiscovery
+ADDED from [com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\b2fdb449daf4ae3c3112a60dfc20b780\jetified-transport-backend-cct-2.2.0\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\a15342b53930af5c3665cb94bc9b13de\jetified-transport-runtime-2.2.0\AndroidManifest.xml:36:9-38:40
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\a15342b53930af5c3665cb94bc9b13de\jetified-transport-runtime-2.2.0\AndroidManifest.xml:36:9-38:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\b2fdb449daf4ae3c3112a60dfc20b780\jetified-transport-backend-cct-2.2.0\AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\b2fdb449daf4ae3c3112a60dfc20b780\jetified-transport-backend-cct-2.2.0\AndroidManifest.xml:30:13-103
+meta-data#backend:com.google.android.datatransport.cct.CctBackendFactory
+ADDED from [com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\b2fdb449daf4ae3c3112a60dfc20b780\jetified-transport-backend-cct-2.2.0\AndroidManifest.xml:32:13-34:39
+	android:value
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\b2fdb449daf4ae3c3112a60dfc20b780\jetified-transport-backend-cct-2.2.0\AndroidManifest.xml:34:17-36
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\b2fdb449daf4ae3c3112a60dfc20b780\jetified-transport-backend-cct-2.2.0\AndroidManifest.xml:33:17-94
+service#com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService
+ADDED from [com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\a15342b53930af5c3665cb94bc9b13de\jetified-transport-runtime-2.2.0\AndroidManifest.xml:26:9-30:19
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\a15342b53930af5c3665cb94bc9b13de\jetified-transport-runtime-2.2.0\AndroidManifest.xml:28:13-37
+	android:permission
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\a15342b53930af5c3665cb94bc9b13de\jetified-transport-runtime-2.2.0\AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\a15342b53930af5c3665cb94bc9b13de\jetified-transport-runtime-2.2.0\AndroidManifest.xml:27:13-117
+receiver#com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver
+ADDED from [com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\a15342b53930af5c3665cb94bc9b13de\jetified-transport-runtime-2.2.0\AndroidManifest.xml:32:9-34:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\a15342b53930af5c3665cb94bc9b13de\jetified-transport-runtime-2.2.0\AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\yanze\.gradle\caches\transforms-2\files-2.1\a15342b53930af5c3665cb94bc9b13de\jetified-transport-runtime-2.2.0\AndroidManifest.xml:33:13-132
